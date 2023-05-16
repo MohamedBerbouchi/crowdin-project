@@ -1,3 +1,5 @@
 files:
   - source: /src/translations/en.json
     translation: /%original_path%/%two_letters_code%
+  - source: /src/translations/en.json
+    translation: /%original_path%/%two_letters_code%.%file_extension%
